@@ -2,10 +2,13 @@
 StackOverflow rockstars from Bangladesh
 
 ## The list
-|      Name      |                       StackOverflow                       |                     StackExchange Flair                       |                      Github                       |             personal site            |    contact     |
-|----------------|-----------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------|--------------------------------------|----------------|
-| Nafiul Islam   | [games-brainiac](http://stackoverflow.com/users/1624921/) | ![Flair](http://stackexchange.com/users/flair/1782592.png)    | [gamesbrainiac](https://github.com/gamesbrainiac) | http://nafiulis.me/                  | email          |
-| Khaled Monsoor | [kmonsoor](http://stackoverflow.com/users/617185/)        | ![Flair](http://stackexchange.com/users/flair/306439.png)     | [kmonsoor](github.com/kmonsoor/)                  | http://blog.kmonsoor.com             | k@kmonsoor.com |
+|      Name      |                       StackOverflow                       |                     StackExchange Flair                       |                      Github               |          personal site       |    contact     |
+|----------------|-----------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------|---------------------------------------|----------------|
+| Nafiul Islam   | [games-brainiac](http://stackoverflow.com/users/1624921/) | ![Flair](http://stackexchange.com/users/flair/1782592.png)    | [gamesbrainiac](github.com/gamesbrainiac) | nafiulis.me                  | email          |
+| Rubayeet Islam | [rubayeet](http://stackoverflow.com/users/94250/)         | ![Flair](http://stackexchange.com/users/flair/33625.png)      | [rubayeet](github.com/rubayeet)           | rubayeet.wordpress.com       | email          |
+| Khaled Monsoor | [kmonsoor](http://stackoverflow.com/users/617185/)        | ![Flair](http://stackexchange.com/users/flair/306439.png)     | [kmonsoor](github.com/kmonsoor/)          | blog.kmonsoor.com            | k@kmonsoor.com |
+
+
 
 ## Contribute
 Without your contribution this means nothing. Please add data, considering the criteria, as pull request or just add as an [issue on this repo](https://github.com/kmonsoor/Bangladeshi-StackOverflow-rockers/issues/new).
