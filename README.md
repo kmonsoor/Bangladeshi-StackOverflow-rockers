@@ -3,7 +3,8 @@ StackOverflow rockstars from Bangladesh
 
 ## The list
 |      Name      |                       StackOverflow                       |                     StackExchange Flair                       |                      Github               |          personal site       |    contact     |
-|----------------|-----------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------|---------------------------------------|----------------|
+|----------------|-----------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------|------------------------------|----------------|
+| Imran          | [imran](http://stackoverflow.com/users/1897/)             | ![Flair](http://stackexchange.com/users/flair/1422.png)       | [...](github.com/)                        |                              | email          |
 | Nafiul Islam   | [games-brainiac](http://stackoverflow.com/users/1624921/) | ![Flair](http://stackexchange.com/users/flair/1782592.png)    | [gamesbrainiac](github.com/gamesbrainiac) | nafiulis.me                  | email          |
 | Rubayeet Islam | [rubayeet](http://stackoverflow.com/users/94250/)         | ![Flair](http://stackexchange.com/users/flair/33625.png)      | [rubayeet](github.com/rubayeet)           | rubayeet.wordpress.com       | email          |
 | Khaled Monsoor | [kmonsoor](http://stackoverflow.com/users/617185/)        | ![Flair](http://stackexchange.com/users/flair/306439.png)     | [kmonsoor](github.com/kmonsoor/)          | blog.kmonsoor.com            | k@kmonsoor.com |
