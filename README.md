@@ -1,13 +1,15 @@
 # Bangladeshi StackOverflow rockers
 The top 100 StackOverflow rockstars from Bangladesh. 
 
-### Scoring procedure
+### Scoring
 
-The initial list and sorting is taken from StackExchange public dataset by filtering location by 'Bangladesh'.   
-So, whose SO profile missing his/her location info is missing from this list.  
+The initial list of reputations and sorting is taken from StackExchange public dataset by filtering location by 'Bangladesh'.   
+So, whose SO profile missing his/her location info is missing from this list.
+
+However, that primary score/sorting has been preserved in this final presented list.
 
 
-## The list
+## The Honor Roll
 
 | SO profile                                                          | StackExchange Flair                                        | Github                  | Website                                            | contact   |
 |:--------------------------------------------------------------------|:-----------------------------------------------------------|:------------------------|:---------------------------------------------------|:----------|
