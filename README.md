@@ -3,7 +3,7 @@ The top 100 StackOverflow rockstars from Bangladesh.
 
 ### Scoring procedure
 
-The initial list and sorting is taken from StackExchange public dataset by filtering location by 'Bangladesh'. 
+The initial list and sorting is taken from StackExchange public dataset by filtering location by 'Bangladesh'.   
 So, whose SO profile missing his/her location info is missing from this list.  
 
 
@@ -116,21 +116,22 @@ So, whose SO profile missing his/her location info is missing from this list.
 
 ## Contribute
 Without your contribution this means nothing. 
-Please add missing data, considering the criteria, as pull request or just add as an [issue on this repo](https://github.com/kmonsoor/Bangladeshi-StackOverflow-rockers/issues/new).
+Please add missing data, improving the suggestion, as pull request or just add as an [issue on this repo](https://github.com/kmonsoor/Bangladeshi-StackOverflow-rockers/issues/new). Thanks in advance.
 
 
 ## FAQ
 
-### 1. My SO reputation should put me in this list. Why i am missing here?
+**1. My SO reputation should put me in this list. Why i am missing here?**
     
     A. Possibly your location is missing in your SO profile. Update that. It will eventually update this list.
     
-### 2. The sorting of this list looks off. What's the issue?
+**2. The sorting of this list looks off. What's the issue?**
     
     A. The score-card image you are seeing is of total stackexchange reputations on all sites. 
-    But, the main sorting is based on StackOverflow reputation. If you check indivisual profiles, you can verify that.
+    But, the main sorting is based on StackOverflow reputation. 
+    If you check indivisual profiles, you will see that.
     
-### 3. I think you have put yourself in the list unfairly.
+**3. I think you have put yourself in the list unfairly.**
    
     A. I wish i had. Unfortunately, I didn't made into the list. Yet. Still lacking some points.
   
