@@ -117,25 +117,27 @@ However, that primary score/sorting has been preserved in this final presented l
 
 
 ## Contribute
-Without your contribution this means nothing. 
-Please add missing data, improving the suggestion, as pull request or just add as an [issue on this repo](https://github.com/kmonsoor/Bangladeshi-StackOverflow-rockers/issues/new). Thanks in advance.
+Please keep in mind that this whole thing is very primary implementation of an idea. So, without your feedback it will fail.
+
+Please add missing data, improving suggestion, as pull request or just add as an [issue on this repo](https://github.com/kmonsoor/Bangladeshi-StackOverflow-rockers/issues/new).  
+
+Thanks in advance.
 
 
 ## FAQ
 
 **1. My SO reputation should put me in this list. Why i am missing here?**
     
-    A. Possibly your location is missing in your SO profile. Update that. It will eventually update this list.
+**A.** Possibly your location is missing in your SO profile. Update that. It will eventually update this list.
     
 **2. The sorting of this list looks off. What's the issue?**
     
-    A. The score-card image you are seeing is of total stackexchange reputations on all sites. 
-    But, the main sorting is based on StackOverflow reputation. 
-    If you check indivisual profiles, you will see that.
+**A.** The score-card image you are seeing is of total stackexchange reputations on all sites. But, the main sorting is based on StackOverflow reputation. 
+   If you check indivisual profiles, you will see that.
     
 **3. I think you have put yourself in the list unfairly.**
-   
-    A. I wish i had. Unfortunately, I didn't made into the list. Yet. Still lacking some points.
+  
+**A.** I wish i had. Unfortunately, I didn't made into the list. Yet. Still lacking some points.
   
 
   
