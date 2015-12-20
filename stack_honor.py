@@ -1,21 +1,18 @@
 #!/usr/bin/python
-__author__  = 'Khaled Monsoor <k@kmonsoor.com>'
+__author__ = 'Khaled Monsoor <k@kmonsoor.com>'
 __license__ = 'The MIT License: <http://kmonsoor.mit-license.org/>'
-__version__ = '0.5.0'
+
 ###############################
-
-
 import csv
 import json
 
-# external dependencies 
 import requests
 import tldextract
 from bs4 import BeautifulSoup
 from tabulate import tabulate
-
-
 ###############################
+
+
 # update these value with your id & secret from `https://github.com/settings/developers`
 # Without authenticated ID/secret, Github API hits fail after few hits
 github_client_id = 'f34560-FAKE-FAKE-40c'   
@@ -69,7 +66,12 @@ def github_user_to_email(username):
     
 
 # Main module
-reader = csv.DictReader(open('stack.csv'))   # csv from `http://data.stackexchange.com/stackoverflow/query/412368/`
+csv_url = 'http://data.stackexchange.com/stackoverflow/csv/527139'
+response = requests.get(csv_url)
+reader = csv.DictReader(response.content.splitlines())
+print "Received stackoverflow statistics data on contributors ...\nNow processing"
+print "=============================================================="
+
 table = [['SO profile', 'StackExchange Flair', 'Github', 'Website', 'contact']]
 
 for row in reader:
@@ -110,8 +112,9 @@ for row in reader:
             github_email]
     table.append(trow)
 
-# converting the output to a MarkDown(*.md) formatted table
 tabulated = tabulate(table, headers='firstrow', tablefmt='pipe')
+    
 with open('stack_out.md', 'w') as output:
     for row in tabulated:
         output.write(row)
+
