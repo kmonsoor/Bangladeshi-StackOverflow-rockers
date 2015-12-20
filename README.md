@@ -1,3 +1,5 @@
+## More detailed & up-to-date version is maintained here: http://blog.kmonsoor.com/top-bangladeshi-stackoverflow-rockstars/
+
 # Bangladeshi StackOverflow rockers
 The top 100 StackOverflow rockstars from Bangladesh. 
 
